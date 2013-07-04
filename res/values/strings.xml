@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SpeechToTextDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="speak">Speak Now</string>
+    <string name="hello_npress_the_mic_button_and_ask_your_query">Hello ! \\nPress the mic button and ask your query</string>
+
+</resources>
